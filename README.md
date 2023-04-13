@@ -3,7 +3,6 @@
 - 👀 Interested in full-stack development, cloud engineering, data engineering, and data science
 - 🌱 Currently learning C++, webscraping with python, and the MERN stack
 - 💞️ Looking to collaborate on anything!
-- 💼 Seeking internships for Summer 2023
 - 📫 How to reach me: Send me an email at c.annunziato@ufl.edu, or visit my website: https://www.cjannunziato.com/
 
 <!---
