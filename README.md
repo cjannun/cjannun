@@ -1,8 +1,8 @@
 - 👋 Hi, I’m C.J. Annunziato
 - 🎓 Student at University of Florida studying Computer Science and Mathematics
 - 💼 Software Engineering Intern at Dell Technologies
-- 👀 Interested in full-stack development, cloud engineering, machine learning
-- 🌱 Currently learning Golang, Python, and machine learning
+- 👀 Interested in full-stack development, machine learning, algo trading
+- 🌱 Currently learning Golang and algo trading math/strategies
 - 💞️ Looking to collaborate on anything!
 - 📫 How to reach me: Send me an email at c.annunziato@ufl.edu, or visit my website: https://www.cjannunziato.com/
 
