@@ -1,6 +1,6 @@
 **C.J. Annunziato**
 
-Junior at the University of Florida studying Computer Science and Mathematics/n
+Junior at the University of Florida studying Computer Science and Mathematics
 
 Past Experience:
 
