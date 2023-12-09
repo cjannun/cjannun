@@ -1,6 +1,6 @@
 **C.J. Annunziato**<br>
 🎓 Junior at University of Florida studying CS & Math<br>
-👀 Interested in Software Engineering, Quantitative Trading, and Math/Algorithms<br>
+👀 Interested in Software Engineering, Data Science, and anything Math/Algorithms related<br>
 🌱 Currently focused on learning algo optimization, operating systems, and React<br>
 👨‍💻 Summer '23 Software Engineering Intern at Dell Technologies<br>
 📫 Email me at c.annunziato@ufl.edu or visit my [website](https://www.cjannunziato.com/) for more info<br>
