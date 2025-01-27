@@ -1,5 +1,5 @@
-Senior at UF studying computer science, math, and business<br>
-Reach me via email at c.annunziato@ufl.edu, or visit my website, [cjannunziato.com](https://www.cjannunziato.com/) for more info<br>
+Senior at UF studying computer science and math <br>
+Reach me via email at c.annunziato@ufl.edu, or via [LinkedIn](https://www.linkedin.com/in/cjannunziato/)<br>
 > Be so good they can't ignore you<br>
 ~ Steve Martin
 
