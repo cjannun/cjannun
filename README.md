@@ -1,5 +1,5 @@
-Senior at UF studying computer science and math <br>
-Reach me via email at c.annunziato@ufl.edu, or via [LinkedIn](https://www.linkedin.com/in/cjannunziato/)<br>
+Software Engineer
+Reach me via email at cjannunziato@icloud.com, or [LinkedIn](https://www.linkedin.com/in/cjannunziato/)<br>
 > Be so good they can't ignore you<br>
 ~ Steve Martin
 
