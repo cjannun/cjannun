@@ -1,4 +1,4 @@
-Software Engineer
+Software Engineer<br>
 Reach me via email at cjannunziato@icloud.com, or [LinkedIn](https://www.linkedin.com/in/cjannunziato/)<br>
 > Be so good they can't ignore you<br>
 ~ Steve Martin
