@@ -1,7 +1,11 @@
 Software Engineer<br>
-Reach me via email at cjannunziato@icloud.com, or [LinkedIn](https://www.linkedin.com/in/cjannunziato/)<br>
+Technical Skills/Interests: C++, Python, high-performance systems, storage, ML, money<br>
+Professional work experience with all of the above.<br>
+Connect with me via email at cjannunziato@icloud.com, or [LinkedIn](https://www.linkedin.com/in/cjannunziato/) if you're interested in working together!<br>
 > Be so good they can't ignore you<br>
 ~ Steve Martin
+
+# RAHHHH GO GATORS
 
 
 <!---
